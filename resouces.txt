@@ -1,0 +1,13 @@
+p5js website: references,examples,tutorials
+
+processing.org forum and libraries
+
+gene kogans website for tutorials
+
+openframeworks.cc
+
+Processing book
+
+p5 js book
+
+github.com/genekogan/kurukshetra

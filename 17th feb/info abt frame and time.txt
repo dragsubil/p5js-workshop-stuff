@@ -1,0 +1,10 @@
+to adjust frame rate:
+ place frameRate(<number>); in the setup function
+
+to get current frame count:
+
+use keyword frameCount
+
+to get time count:
+
+use var x=millis() to return milliseconds elapsed so far
